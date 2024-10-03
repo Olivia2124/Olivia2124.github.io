@@ -1,0 +1,18 @@
+header
+{background-color: #DDA0DD;
+  font-family: "verdana", fantasy;
+  font-size: 3em;
+}
+aside {
+  width: 35%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 4px;
+  margin-right: 4px;
+  float: right;
+}
+footer
+{background-color: #DDA0DD;
+  font-family: "tahoma", fantasy;
+  font-size: 1.5em;
+}
